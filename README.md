@@ -39,7 +39,7 @@ PRIVATE_KEY="your private key"
 ### 4. Update Smart Contract (Skipp if you won't modify NFT name)
 
 - Open contracts folder
-- Open Nft.sol file
+- Open PrivateNft.sol file
 - Feel free to modify token name and token symbol
 
 ```
