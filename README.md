@@ -15,11 +15,7 @@ EVM :
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-deploy-private-nft.git
-```
-
-```
-cd swisstronik-deploy-private-nft
+git clone https://github.com/Mnuralim/swisstronik-deploy-private-nft.git .
 ```
 
 ### 2. Install Dependency
