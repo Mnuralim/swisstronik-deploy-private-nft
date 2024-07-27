@@ -15,7 +15,10 @@ EVM :
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-deploy-private-nft.git .
+git clone https://github.com/Mnuralim/swisstronik-deploy-private-nft.git
+```
+```bash
+cd swisstronik-deploy-private-nft
 ```
 
 ### 2. Install Dependency
@@ -28,6 +31,11 @@ npm install
 
 create .env file in root project
 
+```bash
+touch .env
+```
+
+add this to your .env file
 ```bash
 PRIVATE_KEY="your private key"
 ```
