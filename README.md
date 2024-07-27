@@ -108,8 +108,8 @@ npm run mint
 - Open the deployed-adddress.ts (location in utils folder)
 - Copy the address and paste the address into testnet dashboard
 - push this project to your github and paste your repository link in testnet dashboard
-  how to push ?
   
+ #how to push ? 
 ```bash
 git init
 ```
